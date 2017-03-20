@@ -1,0 +1,15 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "A crawler to get all links from a website and store them in csv file",
+  "main": "index.js",
+  "dependencies": {
+    "csv-write-stream": "^2.0.0",
+    "request": "^2.81.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suraj Anthwal",
+  "license": "ISC"
+}
